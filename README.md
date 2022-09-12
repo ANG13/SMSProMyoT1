@@ -9,7 +9,7 @@
 This package offers an open-source Simultaneous-Slice Prototype of Myocardial T1 mapping (SMS-ProMyoT1) using Pulseq [[1,2]](#references) which includes an inversion recovery T1 mapping sequence with a triggering scheme. ProMyoT1 accessibility allows faster implementation of new ideas, while its applicability to different vendors though Pulseq versatility makes it an easier route for reproducibility studies. 
 
 <p align="center">
-<img src="C5_Scheme_all_lines.png"/>
+<img src="C5_Scheme_all_lines_white_background.png"/>
 </p>
 
 
