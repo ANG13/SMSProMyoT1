@@ -35,6 +35,7 @@ SMS-ProMyoT1 can be build with Matlab:
 ## Requirements
 In order to create a `SMS-ProMyoT1.seq` file you will need: 
 *  **PULSEQ**:  **Pulseq** package available at: https://github.com/pulseq/pulseq or for python: https://github.com/imr-framework/pypulseq 
+*  **Inversion Pulse**: According with  https://github.com/ANG13/ProMyoT1, files in mr+ folder should be added Pulseq mr+ folder. 
 *   **VERSE Optimization**:  
 	* **VERSE** [[3]](#references)  package available at: https://github.com/mriphysics/verse-mb
 
